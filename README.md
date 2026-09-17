@@ -291,6 +291,8 @@ The implemented system provides:
 * LCD bar-graph visualization
 * Runtime selection of 100 ms, 500 ms and 1000 ms update intervals
 
+## Demonstration Video: https://drive.google.com/file/d/1ZAIFqQiit4W_FXrlWZXe6ZwbWB38NhyW/view?usp=sharing
+
 ## Future Improvements
 
 Possible extensions include:
